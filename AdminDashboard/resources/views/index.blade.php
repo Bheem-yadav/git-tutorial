@@ -233,7 +233,7 @@
               <li class="nav-item">
                 <a href="./index3.html" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Dashboard v3</p>
+                  <p>Dashboard v33</p>
                 </a>
               </li>
             </ul>
